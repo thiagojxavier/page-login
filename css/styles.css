@@ -1,0 +1,9 @@
+body {
+    background-image: url(../images/backgroundLp.png);
+    background-size: cover;
+}
+
+#last-name {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
