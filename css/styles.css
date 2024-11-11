@@ -1,9 +1,10 @@
 body {
-    background-image: url(../images/backgroundLp.png);
+    background-image: url(../images/background.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
-#last-name {
+.span-name {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
 }
